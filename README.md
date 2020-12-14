@@ -1,6 +1,6 @@
 # Hi, I'm João! 😁
 
-<img src="./image/testing.png" min-width="400px" max-width="400px" width="400px" alig="right" alt="Computador ">
+<img src="./image/testing.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
 
 <p align="left"> 
 
