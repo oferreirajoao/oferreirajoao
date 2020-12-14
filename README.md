@@ -4,11 +4,11 @@
 
 <p align="left"> 
 
-### ℹ About me
+### About me
 👨‍🎓 I'm graduated in Computer Engineering. <br>
 👩‍💻 I’m currently working as a QA Tester.  <br>
 🌱 I’m currently learning BDD with Cucumber and Gherkin.  <br>
-🤓 In 2018, I embarked on the software testing area through an internship opportunity. Then start the studies and work with manual tests and then with automated tests. Being a curious person, I always tried to understand how things work, maybe, this is the real reason that made me like the area of testing and software quality so much. <br>
+ℹ In 2018, I embarked on the software testing area through an internship opportunity. Then start the studies and work with manual tests and then with automated tests. Being a curious person, I always tried to understand how things work, maybe, this is the real reason that made me like the area of testing and software quality so much. <br>
 
 </p>
 
